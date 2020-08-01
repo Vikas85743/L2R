@@ -4,6 +4,6 @@ class Welcome{
 		System.out.println("### Initial Code Modified ###");
 		System.out.println("### This code is entered at Github ###");
 		System.out.println("### This code is entered after clone and pushed back to Github ###");
-		System.out.println("### Github auto trigger test ###");
+		System.out.println("### Github auto trigger test1 ###");
 	}
 }
